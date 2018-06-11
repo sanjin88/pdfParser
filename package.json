@@ -1,0 +1,17 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "Extract data from pdf files",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.6.1",
+    "lodash": "^4.17.10",
+    "pdf2json": "^1.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjin Kapetanovic",
+  "license": "ISC"
+}
